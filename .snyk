@@ -1,6 +1,6 @@
 version: v1.14.0
 exclude:
   code:
-    - */AccountAction.java
+    - "*/AccountAction.java"
 #    - "*/cordova/*"
 #    - "app/src/cashKnoxHack/java/org/apache/cordova/*"
