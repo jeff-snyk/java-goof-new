@@ -7,6 +7,7 @@ vulnerability:
 2. The `kubectl` client and credenials configuration
 3. Docker Desktop or docker-ce (for building and pushing images)
 4. A DockerHub account that you are logged in with at the command prompt (via `docker login`)
+5. Nothing burger
 
 ## Quickstart
 Assuming you have your kubernetes cluster up and ready, from the top level of this repo you can run `./k8s-quickstart.sh` which will do the following:
