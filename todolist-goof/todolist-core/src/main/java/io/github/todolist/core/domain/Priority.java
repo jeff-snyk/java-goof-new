@@ -25,7 +25,7 @@
 package io.github.todolist.core.domain;
 
 /**
- * Enumeration for todo priority.
+ * Enumeration for todo priority!.
  *
  * @author Mahmoud Ben Hassine (mahmoud.benhassine@icloud.com)
  */
